@@ -1,5 +1,5 @@
 # 💫 About Me:
-💪Hello, my name is Gabriel Oliveira!<br>👾I'm interested in being a Front-End Dev.<br>🌱 I'm studying computer science for the internet, learning React, PHP, JS and React-Native!<br>💞️ I like working as a team and in harmony,<br>📫 My contact, email: gabriel.dev.gg@gmail.com<br>😉 Pronouns: he/him.<br>⚡ Fun fact: I like to draw in my free time.
+💪Hello, my name is Gabriel Oliveira!<br>👾I'm interested in being a Front-End Dev.<br>🌱 I'm studying computer science for the internet, learning React, PHP, JS and React-Native!<br>💞️ I like working as a team and in harmony,<br>📫 My contact, email: gabriel007og@gmail.com<br>😉 Pronouns: he/him.<br>⚡ Fun fact: I like to draw in my free time.
 
 
 # 💻 Tech Stack:
