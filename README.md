@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/zQl1i5Mg9EkRa/giphy.gif?cid=ecf05e47omr9nzxgjf4uqnmm5uly66qyfw6zvbjjgemd89lk&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
-</div>
+
 
 ###
 
@@ -12,7 +10,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey There ;)👋</h1>
 
 ###
 
