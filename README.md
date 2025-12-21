@@ -18,7 +18,7 @@
 
 ###
 
-<p align="center">💪Hello, my name is Gabriel Oliveira!<br>👾I'm interested in being a Front-End Dev.<br>🌱 I am currently studying computer science at university.<br>💞️ I like working as a team and in harmony,<br>📫 My contact, email: gabriel007og@gmail.com<br>⚡ Fun fact: I like to draw in my free time.</p>
+<p align="center">💪Hello, my name is Gabriel Oliveira!<br>👾I'm interested in being a FullStack Dev.<br>🌱 I am currently studying computer science at university.<br>💞️ I like working as a team and in harmony,<br>📫 My contact, email: gabriel007og@gmail.com<br>⚡ Fun fact: I like to draw in my free time.</p>
 
 ###
 
